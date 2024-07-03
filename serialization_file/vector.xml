@@ -1,0 +1,23 @@
+<serialization>
+    <std_vector>
+        <size>6</size>
+        <index_0>
+            <value>1</value>
+        </index_0>
+        <index_1>
+            <value>1</value>
+        </index_1>
+        <index_2>
+            <value>2</value>
+        </index_2>
+        <index_3>
+            <value>3</value>
+        </index_3>
+        <index_4>
+            <value>5</value>
+        </index_4>
+        <index_5>
+            <value>8</value>
+        </index_5>
+    </std_vector>
+</serialization>

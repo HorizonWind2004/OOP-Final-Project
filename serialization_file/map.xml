@@ -1,0 +1,35 @@
+<serialization>
+    <std_map>
+        <size>3</size>
+        <index_0>
+            <std_pair>
+                <first>
+                    <value>1</value>
+                </first>
+                <second>
+                    <std_string>one</std_string>
+                </second>
+            </std_pair>
+        </index_0>
+        <index_1>
+            <std_pair>
+                <first>
+                    <value>2</value>
+                </first>
+                <second>
+                    <std_string>two</std_string>
+                </second>
+            </std_pair>
+        </index_1>
+        <index_2>
+            <std_pair>
+                <first>
+                    <value>3</value>
+                </first>
+                <second>
+                    <std_string>three</std_string>
+                </second>
+            </std_pair>
+        </index_2>
+    </std_map>
+</serialization>

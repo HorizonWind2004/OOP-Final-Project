@@ -1,0 +1,16 @@
+<serialization>
+    <std_string>Alice</std_string>
+    <value>20</value>
+    <std_vector>
+        <size>3</size>
+        <index_0>
+            <value>90</value>
+        </index_0>
+        <index_1>
+            <value>80</value>
+        </index_1>
+        <index_2>
+            <value>70</value>
+        </index_2>
+    </std_vector>
+</serialization>
